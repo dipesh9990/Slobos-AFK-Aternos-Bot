@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "15.235.215.108:12615",
+    "ip": "survival707.mcsh.io",
     "port": 25565,
     "version": "",
     "try-creative": false
